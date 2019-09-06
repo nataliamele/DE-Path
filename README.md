@@ -73,3 +73,6 @@ My Data Engineering career skills check list
 - [ ] *Machine Learning Interview Preparation*
 [Udacity](https://udacity.com/course/machine-learning-interview-prep--ud1001)
 ***
+- [ ] *System Design*
+[Educative](https://www.educative.io/collection/5668639101419520/5649050225344512)
+***
